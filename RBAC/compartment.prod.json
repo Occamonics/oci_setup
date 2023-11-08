@@ -1,0 +1,8 @@
+{
+  "description": "EXT_USER_ODA_DEV_TMP",
+  "freeformTags": {
+    "Customer": "WIPO",
+    "ENV": "DEV"
+  },
+  "name": "EXT_USER_ODA_DEV_TMP"
+}
