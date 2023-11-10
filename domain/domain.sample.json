@@ -1,0 +1,33 @@
+{
+  "adminEmail": "string",
+  "adminFirstName": "string",
+  "adminLastName": "string",
+  "adminUserName": "string",
+  "compartmentId": "string",
+  "definedTags": {
+    "tagNamespace1": {
+      "tagKey1": "tagValue1",
+      "tagKey2": "tagValue2"
+    },
+    "tagNamespace2": {
+      "tagKey1": "tagValue1",
+      "tagKey2": "tagValue2"
+    }
+  },
+  "description": "string",
+  "displayName": "string",
+  "freeformTags": {
+    "tagKey1": "tagValue1",
+    "tagKey2": "tagValue2"
+  },
+  "homeRegion": "string",
+  "isHiddenOnLogin": true,
+  "isNotificationBypassed": true,
+  "isPrimaryEmailRequired": true,
+  "licenseType": "string",
+  "maxWaitSeconds": 0,
+  "waitForState": [
+    "ACCEPTED|IN_PROGRESS|FAILED|SUCCEEDED|CANCELING|CANCELED"
+  ],
+  "waitIntervalSeconds": 0
+}

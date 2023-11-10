@@ -4,5 +4,9 @@
     "Customer": "WIPO",
     "ENV": "DEV"
   },
-  "name": "EXT_USER_ODA_DEV_TMP"
+  "name": "EXT_USER_ODA_DEV_TMP",
+  "waitForState": [
+    "ACTIVE|CREATING"
+  ],
+  "maxWaitSeconds": 100
 }

@@ -1,0 +1,26 @@
+{
+  "compartmentId": "string",
+  "maxWaitSeconds": 0,
+  "resources": [
+    {
+      "entityType": "string",
+      "identifier": "string",
+      "metadata": {
+        "string1": "string",
+        "string2": "string"
+      }
+    },
+    {
+      "entityType": "string",
+      "identifier": "string",
+      "metadata": {
+        "string1": "string",
+        "string2": "string"
+      }
+    }
+  ],
+  "waitForState": [
+    "ACCEPTED|IN_PROGRESS|FAILED|SUCCEEDED|CANCELING|CANCELED"
+  ],
+  "waitIntervalSeconds": 0
+}

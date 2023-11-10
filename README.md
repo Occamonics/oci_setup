@@ -21,7 +21,20 @@ oci iam compartment create
 
 #### Required Params
 ```
-    --compartment-id -c
-    --description
-    --name [text]
+        --compartment-id -c
+        --description
+        --name [text]
 ```
+
+## Domain
+
+### get 
+```shell
+oci iam domain get --domain-id ocid1.domain.oc1..aaaaaaaalpi277oq4tjzz6tmyoedrryorr63hk65js2zggqa63opzytiecxq
+```
+### create 
+```sh
+
+```
+#### Required Params
+https://docs.oracle.com/en-us/iaas/tools/oci-cli/3.36.0/oci_cli_docs/cmdref/iam/domain/create.html#required-parameters

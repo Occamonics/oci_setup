@@ -1,0 +1,9 @@
+{
+  "description": "Associated with the EXT_USER_ODA_PRD Compartment for RBAC definition.",
+  "displayName": "EXT_USER_ODA_PROD_DOMAIN",
+  "homeRegion": "uk-london-1",
+  "isHiddenOnLogin": false,
+  "waitForState": [
+    "SUCCEEDED"
+  ]
+}

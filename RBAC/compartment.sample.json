@@ -1,0 +1,24 @@
+{
+  "compartmentId": "string",
+  "definedTags": {
+    "tagNamespace1": {
+      "tagKey1": "tagValue1",
+      "tagKey2": "tagValue2"
+    },
+    "tagNamespace2": {
+      "tagKey1": "tagValue1",
+      "tagKey2": "tagValue2"
+    }
+  },
+  "description": "string",
+  "freeformTags": {
+    "tagKey1": "tagValue1",
+    "tagKey2": "tagValue2"
+  },
+  "maxWaitSeconds": 0,
+  "name": "string",
+  "waitForState": [
+    "CREATING|ACTIVE|INACTIVE|DELETING|DELETED"
+  ],
+  "waitIntervalSeconds": 0
+}

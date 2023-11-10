@@ -1,8 +1,11 @@
 {
-  "description": "EXT_USER_ODA_DEV_TMP",
+  "description": "EXT_USER_ODA_PROD_TMP",
   "freeformTags": {
     "Customer": "WIPO",
-    "ENV": "DEV"
+    "ENV": "PROD"
   },
-  "name": "EXT_USER_ODA_DEV_TMP"
+  "name": "EXT_USER_ODA_DEV_TMP",
+  "waitForState": [
+    "ACTIVE"
+  ]
 }

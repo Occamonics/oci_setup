@@ -1,0 +1,26 @@
+{
+  "data": {
+    "compartment-id": "ocid1.compartment.oc1..aaaaaaaaxjdqk7alzc5t7z7pm7toxrjp6giyqhghukhfxyrfdrbg4m4elsua",
+    "defined-tags": {
+      "Oracle-Tags": {
+        "CreatedBy": "default/neville.varnham@occamonics.com",
+        "CreatedOn": "2023-11-06T15:30:31.723Z"
+      }
+    },
+    "description": "Associated with the EXT_USER_ODA_PRD Compartment for RBAC definition.",
+    "display-name": "EXT_USER_ODA_PRD_DOMAIN",
+    "freeform-tags": {},
+    "home-region": "uk-london-1",
+    "home-region-url": "https://idcs-07acce9b6a37439b96aa4f6a950030fa.uk-london-idcs-1.identity.uk-london-1.oci.oraclecloud.com:443",
+    "id": "ocid1.domain.oc1..aaaaaaaalpi277oq4tjzz6tmyoedrryorr63hk65js2zggqa63opzytiecxq",
+    "is-hidden-on-login": false,
+    "license-type": "free",
+    "lifecycle-details": null,
+    "lifecycle-state": "ACTIVE",
+    "replica-regions": null,
+    "time-created": "2023-11-06T15:30:31.754000+00:00",
+    "type": "SECONDARY",
+    "url": "https://idcs-07acce9b6a37439b96aa4f6a950030fa.identity.oraclecloud.com:443"
+  },
+  "etag": "52d54e260954fccb69cd55ff7acec9fb63c08a2f"
+}
